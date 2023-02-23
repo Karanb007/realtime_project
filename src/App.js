@@ -5,7 +5,6 @@ import './App.css';
 import { BrowserRouter,Routes,Route } from 'react-router-dom';
 
 //---------components-------------
-import HomeScreen from './screens/home/HomeScreen';
 
 function App() {
 
