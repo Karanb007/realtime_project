@@ -1,0 +1,21 @@
+{
+    "shooters": [
+      {
+        "id": 20,
+        "name": "Raka photography",
+        "address":"nagpur",
+        "phone":1234567890,
+        "description": "ek dum kadak photography krto me"
+        
+      }
+     ],
+     "users":[
+        {
+            "id":1,
+            "email":"karan@gmail.com",
+            "userName":"karan",
+            "userType":1,
+            "password":123456789
+        }
+     ]
+}

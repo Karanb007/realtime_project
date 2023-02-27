@@ -1,0 +1,24 @@
+.login_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;   
+}
+.login_dashboard{
+    height: 50%;
+    width: 50%;
+    border: 1px solid black;
+    display: flex;
+
+}
+.login_dashboard_left{
+    flex:1;
+}
+.login_dashboard_right{
+    flex:1;
+}
+.google_login{
+ border: 0.5px solid black;  
+ background-color: none;
+ border-radius: 5px; 
+}
